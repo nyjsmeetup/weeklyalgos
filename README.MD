@@ -8,7 +8,7 @@
       <td>Hard</td>
     </tr>
       <td>2019-09-29</td>
-      <td><a href="./Easy/001_Longest_Possible_Palindrome.js">Easy</a></td>
+      <td><a href="./Easy/001_Longest_Possible_Palindrome.js">Longest Possible Palindrome</a></td>
       <td>Hard</td>
     </tr>
   </table>
