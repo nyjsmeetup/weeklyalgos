@@ -17,15 +17,15 @@ Example:
   */
 
 class Tree {
-  constructor(rootVal, leftChild = null, rightChild = null) {
-    this.rootVal = rootVal;
+  constructor(value, leftChild = null, rightChild = null) {
+    this.value = value;
     this.leftChild = leftChild;
     this.rightChild = rightChild;
   }
 }
 
-const tree1 = new Tree('+');
-tree1.leftChild = 1;
-tree1.rightChild = 2;
+const evaluateTree = () => {
+  // your code here
+};
 
-const evaluateTree = () => {};
+module.exports = { Tree, evaluateTree };
