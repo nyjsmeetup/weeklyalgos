@@ -1,4 +1,4 @@
-const longestPalindrome = str => {
+const longestPalindromeSolution = str => {
   let result = 0;
   let hasCenter = false;
 
@@ -26,14 +26,9 @@ const longestPalindrome = str => {
       hasCenter = true;
     }
   });
-  // add a center to the palindrome
+  // add the center to the palindrome
   if (hasCenter) {
     result += 1;
   }
   return result;
 };
-
-// test cases
-console.log(longestPalindrome('aabccdd')); // 7
-console.log(longestPalindrome('ab')); // 1
-console.log(longestPalindrome('aBcFFbcBcc')); // 9

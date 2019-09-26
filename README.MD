@@ -1,5 +1,13 @@
 # Repo for weekly NYJS algorithm challenges
 
+## Instructions
+
+- Run
+  ```
+  npm i
+  ```
+  to install dependencies
+
 <div>
   <table>
     <tr>
