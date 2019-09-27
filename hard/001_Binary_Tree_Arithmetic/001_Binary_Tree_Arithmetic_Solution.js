@@ -1,3 +1,6 @@
+/* 
+  This solution uses inorder traversal (left, root, right) (number, operation, number)
+*/
 const evaluateTreeSolution = root => {
   switch (root.value) {
     case '+':
@@ -15,6 +18,7 @@ const evaluateTreeSolution = root => {
     case '/':
       return evaluateTree(root.leftChild) / evaluateTree(root.rightChild);
     default:
+      // this is our base case
       return root.value;
   }
 };
