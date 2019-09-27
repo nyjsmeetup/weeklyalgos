@@ -1,27 +1,5 @@
 # Weekly NYJS Meetup Algorithm Challenges
 
-## Instructions
-
-- Run
-
-  ```
-  npm i
-  ```
-
-  to install dependencies
-
-- To test your code run
-
-  ```
-  npm run test-watch testLocation
-  ```
-
-  Example:
-
-  ```
-  npm run test-watch ./easy/001
-  ```
-
 <div>
   <table>
     <tr>
@@ -35,3 +13,46 @@
     </tr>
   </table>
 </div>
+
+## Instructions
+
+- <h2>Github</h2>
+
+  Fork the repo
+
+  Clone the forked repo onto your local machine.
+
+  Add the original repo as upstream remote using either https or ssh
+
+  ```
+  # https
+  git remote add upstream https://github.com/HypeDis/NYJS_Algos.git
+  # ssh
+  git remote add upstream git@github.com:HypeDis/NYJS_Algos.git
+  ```
+
+  To get the latest every week use
+
+  ```
+  git pull upstream master
+  ```
+
+- <h2>Install node dependencies</h2>
+
+  ```
+  npm i
+  ```
+
+* <h2>Testing Your Code</h2>
+
+  ```
+  npm run test-watch testLocation
+  ```
+
+  Example:
+
+  ```
+  npm run test-watch ./easy/001
+  ```
+
+  Note: jest does not require the full path name to find a test file
