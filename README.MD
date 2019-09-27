@@ -14,9 +14,10 @@
   </table>
 </div>
 
-## Instructions
+# Setting Everything Up
 
-- <h2>Github</h2>
+- ## Git(hub) Setup
+
 
   Fork the repo
 
@@ -37,13 +38,15 @@
   git pull upstream master
   ```
 
-- <h2>Install node dependencies</h2>
+- ## Installing Node Dependencies
+
 
   ```
   npm i
   ```
 
-* <h2>Testing Your Code</h2>
+- ## Testing Your Code
+
 
   ```
   npm run test-watch testLocation
