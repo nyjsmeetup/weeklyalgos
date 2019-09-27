@@ -18,6 +18,7 @@
 
 - ## Git(hub) Setup
 
+
   Fork the repo
 
   Clone the forked repo onto your local machine.
@@ -39,11 +40,13 @@
 
 - ## Installing Node Dependencies
 
+
   ```
   npm i
   ```
 
 - ## Testing Your Code
+
 
   ```
   npm run test-watch testLocation
