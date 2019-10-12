@@ -11,6 +11,11 @@
       <td><a href="easy/001_Longest_Possible_Palindrome/001_Longest_Possible_Palindrome.js">Longest Possible Palindrome</a></td>
       <td><a href="hard/001_Binary_Tree_Arithmetic/001_Binary_Tree_Arithmetic.js">Binary Tree Arithmetic</a> </td>
     </tr>
+    </tr>
+      <td>2019-10-06</td>
+      <td><a href="easy/002_Caeser_Cipher/002_Caeser_Cipher.js">Caeser Cipher</a></td>
+      <td><a href="hard/002_Number_of_Islands/002_Number_of_Islands.js">Number of Islands</a> </td>
+    </tr>
   </table>
 </div>
 
@@ -18,44 +23,41 @@
 
 - ## Git(hub) Setup
 
+Fork the repo
 
-  Fork the repo
+Clone the forked repo onto your local machine.
 
-  Clone the forked repo onto your local machine.
+Add the original repo as upstream remote using either https or ssh
 
-  Add the original repo as upstream remote using either https or ssh
+```
+# https
+git remote add upstream https://github.com/HypeDis/NYJS_Algos.git
+# ssh
+git remote add upstream git@github.com:HypeDis/NYJS_Algos.git
+```
 
-  ```
-  # https
-  git remote add upstream https://github.com/HypeDis/NYJS_Algos.git
-  # ssh
-  git remote add upstream git@github.com:HypeDis/NYJS_Algos.git
-  ```
+To get the latest every week use
 
-  To get the latest every week use
-
-  ```
-  git pull upstream master
-  ```
+```
+git pull upstream master
+```
 
 - ## Installing Node Dependencies
 
-
-  ```
-  npm i
-  ```
+```
+npm i
+```
 
 - ## Testing Your Code
 
+```
+npm run test-watch testLocation
+```
 
-  ```
-  npm run test-watch testLocation
-  ```
+Example:
 
-  Example:
+```
+npm run test-watch ./easy/001
+```
 
-  ```
-  npm run test-watch ./easy/001
-  ```
-
-  Note: jest does not require the full path name to find a test file
+Note: jest does not require the full path name to find a test file
