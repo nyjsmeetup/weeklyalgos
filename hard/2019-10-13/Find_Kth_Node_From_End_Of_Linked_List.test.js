@@ -1,10 +1,8 @@
 const {
   LinkedList,
-} = require('./../../__data_structures__/LinkedList/LinkedList');
+} = require('../../__data_structures__/LinkedList/LinkedList');
 
-const {
-  findKthNode,
-} = require('./003_Find_Kth_Node_From_End_Of_Linked_List.js');
+const { findKthNode } = require('./Find_Kth_Node_From_End_Of_Linked_List.js');
 
 test('it should find the kth value from the end', () => {
   const linkedList1 = new LinkedList();

@@ -1,4 +1,4 @@
-const { generatePascalsTriangle } = require('./003_Pascals_Triangle');
+const { generatePascalsTriangle } = require('./Pascals_Triangle');
 
 test('it should work for 1 or 2 rows', () => {
   expect(generatePascalsTriangle(1)).toEqual([[1]]);

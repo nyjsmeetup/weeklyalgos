@@ -8,18 +8,18 @@
       <td>Hard</td>
     </tr>
       <td>2019-09-29</td>
-      <td><a href="easy/001_Longest_Possible_Palindrome/001_Longest_Possible_Palindrome.js">Longest Possible Palindrome</a></td>
-      <td><a href="hard/001_Binary_Tree_Arithmetic/001_Binary_Tree_Arithmetic.js">Binary Tree Arithmetic</a> </td>
+      <td><a href="easy/2019-09-29/Longest_Possible_Palindrome.js">Longest Possible Palindrome</a></td>
+      <td><a href="hard/2019-09-29/Binary_Tree_Arithmetic.js">Binary Tree Arithmetic</a> </td>
     </tr>
     </tr>
       <td>2019-10-06</td>
-      <td><a href="easy/002_Caeser_Cipher/002_Caeser_Cipher.js">Caeser Cipher</a></td>
-      <td><a href="hard/002_Number_of_Islands/002_Number_of_Islands.js">Number of Islands</a> </td>
+      <td><a href="easy/2019-10-06/Caeser_Cipher.js">Caeser Cipher</a></td>
+      <td><a href="hard/2019-10-06/Number_of_Islands.js">Number of Islands</a> </td>
     </tr>
      </tr>
       <td>2019-10-13</td>
-      <td><a href="easy/003_Pascals_Triangle/003_Pascals_Triangle.js">Pascal's Triangle</a></td>
-      <td><a href="hard/003_Find_Kth_Node_From_End_Of_Linked_List/003_Find_Kth_Node_From_End_Of_Linked_List.js">Find The Kth Node From The End of a Linked List</a> </td>
+      <td><a href="easy/2019-10-13/Pascals_Triangle.js">Pascal's Triangle</a></td>
+      <td><a href="hard/2019-10-13/Find_Kth_Node_From_End_Of_Linked_List.js">Find The Kth Node From The End of a Linked List</a> </td>
     </tr>
   </table>
 </div>

@@ -1,4 +1,4 @@
-const { Tree, evaluateTree } = require('./001_Binary_Tree_Arithmetic');
+const { Tree, evaluateTree } = require('./Binary_Tree_Arithmetic');
 
 test('it should be able to add 2 numbers', () => {
   // 1 + 2
