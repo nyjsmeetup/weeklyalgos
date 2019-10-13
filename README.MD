@@ -16,6 +16,11 @@
       <td><a href="easy/002_Caeser_Cipher/002_Caeser_Cipher.js">Caeser Cipher</a></td>
       <td><a href="hard/002_Number_of_Islands/002_Number_of_Islands.js">Number of Islands</a> </td>
     </tr>
+     </tr>
+      <td>2019-10-13</td>
+      <td><a href="easy/003_Pascals_Triangle/003_Pascals_Triangle.js">Pascal's Triangle</a></td>
+      <td><a href="hard/003_Find_Kth_Node_From_End_Of_Linked_List/003_Find_Kth_Node_From_End_Of_Linked_List.js">Find The Kth Node From The End of a Linked List</a> </td>
+    </tr>
   </table>
 </div>
 
