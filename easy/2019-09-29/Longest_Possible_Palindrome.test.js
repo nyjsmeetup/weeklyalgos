@@ -1,4 +1,4 @@
-const { longestPalindrome } = require('./001_Longest_Possible_Palindrome.js');
+const { longestPalindrome } = require('./Longest_Possible_Palindrome.js');
 test('it should work for all lower case letters', () => {
   const str1 = 'abbc';
   const str2 = 'newyorkjavascript';

@@ -1,4 +1,4 @@
-const { findIslands } = require('./002_Number_of_Islands');
+const { findIslands } = require('./Number_of_Islands');
 
 // prettier-ignore
 const map1 = [
