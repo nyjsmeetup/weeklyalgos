@@ -21,6 +21,11 @@
       <td><a href="easy/2019-10-13/Pascals_Triangle.js">Pascal's Triangle</a></td>
       <td><a href="hard/2019-10-13/Find_Kth_Node_From_End_Of_Linked_List.js">Find The Kth Node From The End of a Linked List</a> </td>
     </tr>
+    </tr>
+      <td>2019-10-20</td>
+      <td><a href="easy/2019-10-20/Max_Consecutive_Sum.js">Max Consecutive Sum</a></td>
+      <td><a href="hard/2019-10-20/Counting_Bits.js">Counting Bits</a> </td>
+    </tr>
   </table>
 </div>
 
