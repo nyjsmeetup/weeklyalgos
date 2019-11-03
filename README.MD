@@ -26,6 +26,12 @@
       <td><a href="easy/2019-10-20/Max_Consecutive_Sum.js">Max Consecutive Sum</a></td>
       <td><a href="hard/2019-10-20/Counting_Bits.js">Counting Bits</a> </td>
     </tr>
+     </tr>
+      <td>2019-11-03</td>
+      <td><a href="easy/2019-11-03/Decimal_To_Binary.js">Converting Decimal to Binary</a></td>
+      <td><a href="hard/2019-11-03/Construct_A_Trie.js">Construct a Trie</a> </td>
+    </tr>
+    
   </table>
 </div>
 
