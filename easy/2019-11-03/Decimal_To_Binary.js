@@ -4,7 +4,7 @@
 
 // example:
 // input: 2
-// output: 10
+// output: '10'
 
 // input: 873
 // output: '101101001'
