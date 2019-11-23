@@ -36,6 +36,11 @@
       <td><a href="Easy/2019-11-17/Sum_To_Zero.js">Sum To Zero</a></td>
       <td><a href="hard/2019-11-17/LRU_Cache.js">LRU Cache</a> </td>
     </tr>
+      </tr>
+      <td>2019-11-24</td>
+      <td><a href="Easy/2019-11-24/Serialize_Deserialize.js"/>Serialize and Deserialize</a></td>
+      <td><a href="hard/2019-11-24/Word_Search.js">Word Search</a> </td>
+    </tr>
   </table>
 </div>
 
