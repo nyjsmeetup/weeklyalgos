@@ -41,6 +41,11 @@
       <td><a href="Easy/2019-11-24/Serialize_Deserialize.js"/>Serialize and Deserialize</a></td>
       <td><a href="hard/2019-11-24/Word_Search.js">Word Search</a> </td>
     </tr>
+      </tr>
+      <td>2019-12-01</td>
+      <td><a href="Easy/2019-12-01/Find_The_Missing_Number.js">Find The Missing Number</a></td>
+      <td><a href="hard/2019-12-01/Make_Valid_Parens_With_Minimal_Removal.js" >Make Valid Parens With Minimal Removal</a> </td>
+    </tr>
   </table>
 </div>
 
